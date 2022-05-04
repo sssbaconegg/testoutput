@@ -8,6 +8,7 @@ setuptools.setup(
   author = 'baconegg',
   author_email = 'baconegg@donga.ac.kr',
   url='https://github.com/sssbaconegg/testoutput/;,
+  download_url='https://github.com/sssbaconegg/testoutput.git',
   install_requires= ['pytest'],
   long_description = 'oss development ...',
   long_description_content_type = 'text/markdown',
